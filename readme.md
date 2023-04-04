@@ -30,6 +30,8 @@
     <li>Redstone Lamp has better contrast</li>
     <li>All textures are simpler</li>
 </ul>
+<h2>Screenshots</h2>
+<img src="screenshot.png" width="100%">
 <h2>Packs Used</h2>
 <ul>
     <li>Vanilla Tweaks by Xisumavoid</li>
