@@ -1,5 +1,5 @@
 
-<h1>jredpack</h1>
+<h1>redtechpro</h1>
 <p>This Minecraft reasorce pack is a combination of textures from other packs carefully picked out to give you the best Minecraft
     Redstone experience.</p>
 <h2>Changed Textures</h2>
