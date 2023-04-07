@@ -1,7 +1,7 @@
 
 <h1>redtechpro</h1>
 <p>
-Minecraft reasorce pack that is a combination of textures from other packs. (vanilla tweaks, ocd pack, mattpack) that i put together for a better redsstone experiance.</p>
+Minecraft reasorce pack that is a combination of textures from other packs. (vanilla tweaks, ocd pack, mattpack) that i put together for a better redstone experiance.</p>
 <h2>Changed Textures</h2>
 <ul>
     <li>All Rails</li>
