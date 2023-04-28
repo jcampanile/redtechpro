@@ -30,6 +30,7 @@ Minecraft reasorce pack that is a combination of textures from other packs. (van
     <li>Redstone Lamp has better contrast</li>
     <li>All textures are simpler</li>
 </ul>
+<h2>screenshots</h2>
 
 <h2>Packs Used</h2>
 <ul>
