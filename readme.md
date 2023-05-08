@@ -33,7 +33,7 @@ Minecraft reasorce pack that is a combination of textures from other packs. (van
 </ul>
 <h2>screenshots</h2>
 
-<h2>credits</h2>
+<h2>packs used</h2>
 <ul>
     <li>Vanilla Tweaks by Xisumavoid</li>
     <li>OCD Pack by AntonLando</li>
