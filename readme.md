@@ -22,7 +22,6 @@ Minecraft reasorce pack that is a combination of textures from other packs. (van
     <li>Redstone Dust, Lamp, Torch, and Block</li>
 </ul>
 <h2>Technical Features</h2>
-<img src="screenshot.png">
 <ul>
     <li>Redstone Block, and Lamp, Wool, Concrete, Glass Block, and Iron Block have visual borders</li>
     <li>Note Block has pitch in numbers</li>
@@ -32,7 +31,7 @@ Minecraft reasorce pack that is a combination of textures from other packs. (van
     <li>All textures are simpler</li>
 </ul>
 <h2>screenshots</h2>
-
+<img src="screenshot.png">
 <h2>packs used</h2>
 <ul>
     <li>Vanilla Tweaks by Xisumavoid</li>
