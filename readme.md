@@ -33,9 +33,12 @@ Minecraft reasorce pack that is a combination of textures from other packs. (van
 </ul>
 <h2>screenshots</h2>
 
-<h2>Packs Used</h2>
+<h2>credits</h2>
 <ul>
     <li>Vanilla Tweaks by Xisumavoid</li>
     <li>OCD Pack by AntonLando</li>
     <li>Mattpack by MattBatWings</li>
 </ul>
+<h2>notice</h2>
+This project by jcampanile is lisensed under the MIT license.
+
