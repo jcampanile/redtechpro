@@ -40,5 +40,5 @@ Minecraft reasorce pack that is a combination of textures from other packs. (van
     <li>Mattpack by MattBatWings</li>
 </ul>
 <h2>notice</h2>
-This project by jcampanile is lisensed under the MIT license.
+This project by jcampanile is licensed under the MIT license.
 
